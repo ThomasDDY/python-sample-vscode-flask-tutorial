@@ -21,3 +21,4 @@ steps:
 
 - script: |
     terraform --version
+    curl -s https://install.bedrock.io | bash
